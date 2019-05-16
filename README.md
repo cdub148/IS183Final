@@ -27,7 +27,7 @@ On the Beverage list page, when a user click on the Beverage items (represented 
 <!-- ### Delete Beverage
 On the Beverage list page, when the user press the red x button, the beverage is deleted from the database. Wire up the button's click event to delete the beverage record. `25pts` -->
 
-To complete the Users module, complete the following:
+<!-- To complete the Users module, complete the following: -->
 
 ### Users List Page
 1. Create a "Users" tab on the main navigation. When the user click on "Users" tab on the main navigation, the application routes to the users component (Users list component). Display a list of Users on this page (just like how Books is displayed) `(25pts)`
